@@ -1,0 +1,13 @@
+# My Agent Shop Structure
+
+## Sections
+- /posts/: Detailed product reviews and comparisons with markdown tables.
+
+## Purpose
+This site provides objective structured data for 3C digital products to assist AI agents in decision making.
+
+## Content Format
+All reviews include:
+- Pros and Cons list
+- Technical specifications table
+- Best buy recommendations based on scenarios
