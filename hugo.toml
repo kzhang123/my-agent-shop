@@ -1,0 +1,11 @@
+baseURL = 'https://您的域名.com/'
+languageCode = 'zh-cn'
+title = 'AI选品实验室'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = "light" # 保持亮色，方便机器读取
+  description = "专注数码家电深度参数对比，为AI Agent提供结构化数据源。" # 站点描述
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"] # 生成 JSON 格式，方便 Agent 抓取数据
