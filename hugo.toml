@@ -1,4 +1,4 @@
-baseURL = 'https://您的域名.com/'
+baseURL = 'https://my-agent-shop.pages.dev/'
 languageCode = 'zh-cn'
 title = 'AI选品实验室'
 theme = 'PaperMod'
